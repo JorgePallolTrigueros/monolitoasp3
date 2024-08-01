@@ -1,0 +1,61 @@
+# Visual Studio
+.vscode/
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.log
+*.vspscc
+*.vssscc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pp_Data/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*~
+
+# OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Additional files
+*.localhistory/
+*.DS_Store
+*.directory
+*.log
+*.log.*
+*.[Cc]ache
+logs/
+*.vspscc

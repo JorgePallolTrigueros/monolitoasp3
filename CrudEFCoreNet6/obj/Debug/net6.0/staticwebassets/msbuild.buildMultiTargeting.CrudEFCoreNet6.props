@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudEFCoreNet6.props" />
+</Project>

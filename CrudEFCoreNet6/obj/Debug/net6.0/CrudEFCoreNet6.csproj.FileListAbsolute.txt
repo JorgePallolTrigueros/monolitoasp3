@@ -1,0 +1,259 @@
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.staticwebassets.runtime.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.exe
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.deps.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.runtimeconfig.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\ref\CrudEFCoreNet6.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.pdb
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Humanizer.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.AssemblyReference.cache
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfoInputs.cache
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfo.cs
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CoreCompileInputs.cache
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cache
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cs
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\bundle\CrudEFCoreNet6.styles.css
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\CrudEFCoreNet6.bundle.scp.css
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CopyComplete
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\ref\CrudEFCoreNet6.dll
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.pdb
+C:\Users\JANUS\source\repos\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.genruntimeconfig.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.Development.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.staticwebassets.runtime.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.exe
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.deps.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.runtimeconfig.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.pdb
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Humanizer.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.AssemblyReference.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfoInputs.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfo.cs
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.MvcApplicationPartsAssemblyInfo.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cs
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.CrudEFCoreNet6.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.build.CrudEFCoreNet6.props
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrudEFCoreNet6.props
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrudEFCoreNet6.props
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\bundle\CrudEFCoreNet6.styles.css
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\CrudEFCoreNet6.bundle.scp.css
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CopyComplete
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\refint\CrudEFCoreNet6.dll
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.pdb
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.genruntimeconfig.cache
+E:\Nueva carpeta\Net\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\ref\CrudEFCoreNet6.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.Development.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.staticwebassets.runtime.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.exe
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.deps.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.runtimeconfig.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.pdb
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Humanizer.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.AssemblyReference.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfoInputs.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfo.cs
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CoreCompileInputs.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.MvcApplicationPartsAssemblyInfo.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cs
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.CrudEFCoreNet6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.build.CrudEFCoreNet6.props
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrudEFCoreNet6.props
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrudEFCoreNet6.props
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\bundle\CrudEFCoreNet6.styles.css
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\CrudEFCoreNet6.bundle.scp.css
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CopyComplete
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\refint\CrudEFCoreNet6.dll
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.pdb
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.genruntimeconfig.cache
+D:\11\codigo\Archivos muy importantes, lo siguiente 2\asp\Funcionan - son para estudiarlos\FALLO DE BASE DE DATOS\Crud\CrudEFCoreNet6\CrudEFCoreNet6\CrudEFCoreNet6\obj\Debug\net6.0\ref\CrudEFCoreNet6.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.Development.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\appsettings.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.staticwebassets.runtime.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.exe
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.deps.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.runtimeconfig.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\CrudEFCoreNet6.pdb
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Humanizer.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.AssemblyReference.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfoInputs.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.AssemblyInfo.cs
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CoreCompileInputs.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.MvcApplicationPartsAssemblyInfo.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.RazorAssemblyInfo.cs
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.CrudEFCoreNet6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.build.CrudEFCoreNet6.props
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrudEFCoreNet6.props
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrudEFCoreNet6.props
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\bundle\CrudEFCoreNet6.styles.css
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\CrudEFCoreNet6.bundle.scp.css
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.csproj.CopyComplete
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\refint\CrudEFCoreNet6.dll
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.pdb
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\CrudEFCoreNet6.genruntimeconfig.cache
+D:\asp\Monolito\Crud 6 tipo -Monolito 3\CrudEFCoreNet6\obj\Debug\net6.0\ref\CrudEFCoreNet6.dll
